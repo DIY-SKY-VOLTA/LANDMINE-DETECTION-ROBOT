@@ -2,10 +2,10 @@
 // Here some main variables that we have not changed in the code, the original variable actually we have to put are denoted below.
 //Front light on/off - Camera Tilt Upward
 //Horn On/off         -      Camera Tilt Downwards
-//Back Light On/off   -      Bomb Pointer drops a pointer and reset to its intial position
-//Forward button      -      Robot moves forward
-//Backward Button     -      Robot moves backward
-//Left button         -      Robot moves left direction
+//Back Light On/off   -      Bomb Pointer drops a pointer and return to its intial position
+//Forward button      -      Robot moves Forward
+//Backward Button     -      Robot moves Backward
+//Left button         -      Robot moves Left direction
 //Right button        -      Robot moves Right direction
 //Parking Lights      -      Empty (not used)
 
