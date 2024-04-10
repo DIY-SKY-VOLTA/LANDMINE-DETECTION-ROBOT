@@ -1,14 +1,13 @@
 
-// Here some main variables are not changed, the original variable actually we have to put are denoted below.
-//front light on/off - Camera Tilt Upward
+// Here some main variables that we have not changed in the code, the original variable actually we have to put are denoted below.
+//Front light on/off - Camera Tilt Upward
 //Horn On/off         -      Camera Tilt Downwards
-//Back Lifght On/off  -      Bomb Pointer drops a pointer and reset to its intial position
+//Back Light On/off   -      Bomb Pointer drops a pointer and reset to its intial position
 //Forward button      -      Robot moves forward
 //Backward Button     -      Robot moves backward
 //Left button         -      Robot moves left direction
 //Right button        -      Robot moves Right direction
-//Parking Lights      -      Empty (spare)
-
+//Parking Lights      -      Empty (not used)
 
 
 #include <Servo.h>
